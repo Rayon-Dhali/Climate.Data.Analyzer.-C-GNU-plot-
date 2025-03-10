@@ -1,0 +1,2 @@
+These are the outputs from the c program that were used to generate the GNUPlot graphs. 
+The files are being included as sometimes the complier runs into integer overflow due to the amount of data and unexpected results might occur, so these are here for comparision. 
