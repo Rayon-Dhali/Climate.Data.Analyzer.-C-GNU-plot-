@@ -1,5 +1,4 @@
-# Utilizing C-Programming to Study - Land Average Temperatures suck my fat cock 
-
+# Utilizing C-Programming to Study - Land Average Temperatures 
 ![image](https://github.com/user-attachments/assets/a3eb5232-3318-4b1f-bfde-90a21528044d)
 ![image](https://github.com/user-attachments/assets/ac3274d4-9438-4f09-9486-6e2c622a2b84)
 ![image](https://github.com/user-attachments/assets/04a63866-81a0-4346-ab14-3f3330afceb4)
