@@ -1,10 +1,56 @@
-# Utilizing C-Programming to Study - Land Average Temperatures
+# 🌍 Climate Data Analyzer (C + Gnuplot)
 
-![image](https://github.com/user-attachments/assets/a3eb5232-3318-4b1f-bfde-90a21528044d)
-![image](https://github.com/user-attachments/assets/ac3274d4-9438-4f09-9486-6e2c622a2b84)
-![image](https://github.com/user-attachments/assets/04a63866-81a0-4346-ab14-3f3330afceb4)
-![image](https://github.com/user-attachments/assets/5cb22013-289f-4c63-a184-8bf9add263cd)
-![image](https://github.com/user-attachments/assets/72ff0680-d647-44bc-a5bf-334400f46d65)
-![image](https://github.com/user-attachments/assets/7fe137bd-6352-4934-8cb1-4c963d412e20)
-![image](https://github.com/user-attachments/assets/e70b317f-a1b2-4118-ae37-7895ce99a427)
-![image](https://github.com/user-attachments/assets/3dd06d2a-48a3-4a71-8a6b-4ea326d0c3e0)
+**Visualizing Climate Change Through C Programming and Gnuplot**
+
+---
+
+## 📘 Introduction
+
+The purpose of this project is to analyze, calculate, and draw conclusions from global weather data collected from various monitoring systems between 1750 and 2015.
+
+The C program performs all data processing:
+- Reads and parses CSV data
+- Calculates trends
+- Generates graphs using **Gnuplot**
+
+This project is ideal for:
+- Students studying climate change
+- Researchers exploring long-term temperature shifts
+- Developers working with data visualization in C
+
+---
+
+## 🧠 Project Objectives
+
+- Calculate **yearly average land temperatures** (1760–2015)
+- Find **average temperature per century**
+- Compute **monthly averages** (1900–2015)
+- Identify **hottest/coldest month and year**
+- Compare **Land vs. Land+Ocean temps**
+- Generate visualizations (line graphs, bar plots, error bars)
+
+---
+
+## 🧪 Methodology (Summarized)
+
+### 📌 Yearly Averages (1760–2015)
+
+Read each year’s 12 months and calculate the average. Ignore 1750–1759.
+
+### 📌 Century Averages
+
+Group data by:
+- 18th century (1760–1799)
+- 19th century (1800–1899)
+- 20th century (1900–1999)
+- 21st century (2000–2015)
+
+Calculate one average per group.
+
+### 📌 Monthly Averages (1900–2015)
+
+Average each calendar month (January to December) across all years.
+
+---
+
+📄 [**View full PDF report with charts and detailed explanations →**](./Climate_Data_Analyzer_Report.pdf)
